@@ -1,0 +1,4 @@
+baseURL: https://hugo-test.github.com/
+languageCode: en-us
+title: Test hugo site
+theme: HugoTeX
