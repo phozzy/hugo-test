@@ -6,3 +6,10 @@ draft: false
 ## Test post
 
 A **test** *post*.
+
+### Test section
+
+The test section with unordered list:
+* item
+* item
+* item
