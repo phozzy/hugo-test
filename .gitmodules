@@ -1,3 +1,9 @@
 [submodule "themes/HugoTeX"]
 	path = themes/HugoTeX
 	url = https://github.com/kaisugi/HugoTeX
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/risotto"]
+	path = themes/risotto
+	url = https://github.com/joeroe/risotto
