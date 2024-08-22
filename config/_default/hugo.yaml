@@ -1,4 +1,4 @@
-baseURL: https://hugo-test.github.com/
+baseURL: https://hugo-test.faizull.in/
 languageCode: en-us
 title: Test hugo site
-theme: HugoTeX
+theme: risotto
