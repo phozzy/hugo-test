@@ -1,7 +1,7 @@
 subtitle: Try and test
 noindex: false
 theme:
-  palette: "base16-dark"
+  palette: "tokyo-night-dark"
 about:
   title: "test site"
   description: "A test site"
